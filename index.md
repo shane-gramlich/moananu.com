@@ -1,3 +1,5 @@
+![Stone Family Reunion 2017](https://octodex.github.com/images/yaktocat.png)
+
 ## Welcome to Moananu.com
 
 You can use the [editor on GitHub](https://github.com/shanegramlich/moananu.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
