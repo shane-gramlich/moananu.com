@@ -1,7 +1,8 @@
 ![Samoan Tattoo Pattern](images/pattern.jpg) 
+Talofa lava, malo soifua, ma le lagi mama aiga uma o Moananu! Greetings to all our Moananu family! This is a designated gathering place for family and a resource for connecting others to our past. Our children must know who they are, where they came from, as they decide how to leave their contribution on life.
 
 ## Talofa
-Malo soifua ma le lagi mama aiga uma o Moananu! Greetings to all family of Moananu!
+
 
 You can use the [editor on GitHub](https://github.com/shanegramlich/moananu.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
