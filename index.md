@@ -1,4 +1,4 @@
-![Stone Family Reunion 2017](https://github.com/shanegramlich/moananu.com/blob/master/images/2017-reunion.jpg)
+![Stone Family Reunion 2017](images/2017-reunion.jpg)
 
 ## Welcome to Moananu.com
 
