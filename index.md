@@ -20,11 +20,24 @@ Come find your place in the family tree and let our roots run together. A "gafa"
 The following gafa demonstrates how the Moananu family fits in with the cheifly [Malietoa](https://en.wikipedia.org/wiki/Malietoa) line.
 
 ```
-1. O se tasi o...
+26. Usu Malietoa 'Ae'o'ainu'u  
+  (I. usuga) ia Tutumanu 'o le afafine o Uligia I Faleata tasi 'o Seiuli Sa'o'aumaga  
+  (II. usuga) toe usu ia Lealaimanoa 'o le afafine 'o Leoi I Sasina tasi 'o Maugatu  
+  (III. usuga) toe usu ia Maua'i o le afafine o Laufiso I Safotulafai tasi 'o Moananu ma Taulapapa  
+  (IV. usuga) toe usu ia Maua'i 'o le afafine o Laufiso I Safotulafai tasi 'o Moananu ma Taulapapa  
+  
+  The Marriage(s) of Malietoa 'Ae'o'ainu'u  
+  (1st Marriage) He was married to Tutumanu who was the daughter of Uligia of Faleata who was the son of Seiuli Sa'o'aumaga  
+  (2nd Marriage) He was married to Lealaimanoa who was the daughter of Leoi of Sasina who was the son of Maugatu  
+  (3rd Marriage) He was married to Maua'i who was the daughter of Laufiso of Safotulafai who was the son of Moananu and Taulapapa  
+  (4th Marriage) He was married to Maua'i who was the daughter of Laufiso of Safotulafai who was the son of Moananu and Taulapapa
 
-2. O se tasi o...
+27. Usu Malietoa Laulauafolasa ia Ali'itasi 'o le afafine o Mata'utia I Gautavai tasi 'o Ti'a ma Taulapapa
+
+  Malietoa Laulauafolasa married Ali'itasi who was the daughter of Mata'utia of Gautavai who was the son of Ti'a and Taulapapa
+
 ```
-[more...](malietoa-laupepa.md)
+[more...](malietoa-uitualagi.md)
 
 ## Reach Out
 We have a private slack server at [https://moananu.slack.com/](https://moananu.slack.com/) for everyone to communicate. Just ask to receive an invitation.
