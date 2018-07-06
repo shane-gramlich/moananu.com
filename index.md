@@ -1,19 +1,21 @@
-## Talofa
 ![Samoan Tattoo Pattern](images/pattern.jpg)
-Malo soifua ma le lagi mama aiga uma o Moananu! Greetings to all our Moananu family! This is a designated gathering place for family and a resource for connecting to the past.
+Talofa lava, malo soifua, ma le lagi mama aiga uma o Moananu! Greetings to all our Moananu family! This is a designated gathering place for family and a resource for connecting to our past.
 
 ## Roots
-Come find your place in the family tree. Create a free account at [familysearch.org](https://www.familysearch.org/) and add your "gafa" or family branch!
+Come find your place in the family tree and let our roots run together. A "gafa" (ngah-fah) is a tree branch and symbolizes family history, origin, and ancestry. To "fai lou gafa" is to literally research your family geneology.
+
+1. Create a free account at [familysearch.org](https://www.familysearch.org/)
+2. Contribute to your family pedigree
+3. Link to a common ancestor of Moananu
+4. Share family stories
 
 ## Reach Out
-If you have any troubles, reach out to [@ShaneGramlich](https://twitter.com/ShaneGramlich). We have a private slack server at [https://moananu.slack.com/](https://moananu.slack.com/) for everyone to communicate on. Ask to receive an invitation.
+We have a private slack server at [https://moananu.slack.com/](https://moananu.slack.com/) for everyone to communicate on. Ask to receive an invitation.
+
+If you have any problems contact [@ShaneGramlich](https://twitter.com/ShaneGramlich) on twitter. 
 
 ## Reunions
 The Stone Family is a direct descendant of Eneleata Moananu and is actively hosting family reunions. Come join us at our next event! Here are some important links:
 
 [moananu.com/slack](http://moananu.com/slack)  
 [moananu.com/donate](http://moananu.com/donate)  
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
