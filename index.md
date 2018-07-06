@@ -1,4 +1,5 @@
-![Samoan Tattoo Pattern](images/pattern.jpg)
+![Samoan Tattoo Pattern](assets/images/pattern.jpg)
+
 Talofa lava, malo soifua, ma le lagi mama aiga uma o Moananu! Greetings to all our Moananu family! This is a designated gathering place for family and a resource for connecting to our past.
 
 ## Roots
