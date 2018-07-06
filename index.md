@@ -27,6 +27,6 @@ The following gafa demonstrates how the Moananu family fits in with the cheifly 
 [more...](malietoa-laupepa.md)
 
 ## Reach Out
-We have a private slack server at [https://moananu.slack.com/](https://moananu.slack.com/) for everyone to communicate on. Just ask to receive an invitation.
+We have a private slack server at [https://moananu.slack.com/](https://moananu.slack.com/) for everyone to communicate. Just ask to receive an invitation.
 
 If you have any problems contact [@ShaneGramlich](https://twitter.com/ShaneGramlich) on twitter.
