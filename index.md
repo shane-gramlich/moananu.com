@@ -16,7 +16,7 @@ Come find your place in the family tree and let our roots run together. A "gafa"
 3. Link to a [common ancestor](https://www.familysearch.org/tree/person/details/KW6H-HFB) of Moananu
 4. Share family stories
 
-## Rich Heritage
+## Royalty
 The following gafa demonstrates how the Moananu family fits in with the cheifly [Malietoa](https://en.wikipedia.org/wiki/Malietoa) line.
 
 ```
