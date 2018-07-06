@@ -9,6 +9,7 @@ Come find your place in the family tree and let our roots run together. A "gafa"
 3. Link to a common ancestor of Moananu
 4. Share family stories
 
+## Rich Heritage
 The following gafa demonstrates how the Moananu family fits in with the cheifly [Malietoa](https://en.wikipedia.org/wiki/Malietoa) line.
 
 ```
@@ -16,6 +17,7 @@ The following gafa demonstrates how the Moananu family fits in with the cheifly 
 
 2. O se tas i o...
 ```
+[more...](malietoa-laupepa.md)
 
 ### Reach Out
 We have a private slack server at [https://moananu.slack.com/](https://moananu.slack.com/) for everyone to communicate on. Just ask to receive an invitation.
