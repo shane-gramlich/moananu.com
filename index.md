@@ -1,12 +1,13 @@
-![Stone Family Reunion 2017](images/2017-reunion.jpg)
+![Samoan Tattoo Pattern](images/pattern.jpg) 
 
-## Welcome to Moananu.com
+## Talofa
+Malo soifua ma le lagi mama aiga uma o Moananu! Greetings to all family of Moananu!
 
 You can use the [editor on GitHub](https://github.com/shanegramlich/moananu.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Reunions
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
