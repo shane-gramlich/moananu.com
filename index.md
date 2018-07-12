@@ -5,8 +5,8 @@ Talofa lava, malo soifua, ma le lagi mama aiga uma o Moananu! Greetings to all o
 ## Reunions
 The Stone Family is a direct descendant of [Eneleata Moananu](https://www.familysearch.org/tree/person/details/KW6H-HFB) and is actively hosting family reunions. Come join us at our next event! Here are some important links:
 
-[moananu.com/join](http://moananu.com/join)
-[moananu.com/calendar](http://moananu.com/calendar)
+[moananu.com/join](http://moananu.com/join)  
+[moananu.com/calendar](http://moananu.com/calendar)  
 [moananu.com/slack](http://moananu.com/slack)  
 [moananu.com/donate](http://moananu.com/donate)  
 
@@ -37,6 +37,6 @@ The following gafa demonstrates how the Moananu family fits in with the cheifly 
 [more...](malietoa-uitualagi.md)
 
 ## Reach Out
-We have a private slack server at [https://moananu.slack.com/](https://moananu.slack.com/) for everyone to communicate. Just "Apply for membership" after logging in [here](https://groups.google.com/forum/#!forum/moananu).
+We have a private slack server at [moananu.com/slack](https://moananu.com/slack) for everyone to communicate. Just "Apply for membership" after logging in [here](https://groups.google.com/forum/#!forum/moananu).
 
 If you have any problems contact [moananu@googlegroups.com](https://groups.google.com/forum/#!forum/moananu).
